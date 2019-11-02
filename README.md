@@ -1,1 +1,1 @@
-# annnoucement-bot-trivia-minds-pro
+# annnoucement-bot
